@@ -1,0 +1,1 @@
+gun_emplacement 700 200

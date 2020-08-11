@@ -1,0 +1,82 @@
+27
+idle
+idle1 70000000 idle2 70000000 idle3 70000000 idle2 70000000 idle1 1500000000
+
+idleshoot
+idleshoot1 500000000 idleshoot1 70000000
+
+run
+run1 100000000 run2 100000000 run3 100000000 run4 100000000 run5 100000000 run6 100000000 run7 100000000 run8 100000000 run9 100000000 run10 100000000 run11 100000000
+
+runshoot
+runshoot1 1 runshoot2 1 runshoot3 1 runshoot4 1 runshoot5 5 runshoot6 1 runshoot7 1 runshoot8 1 runshoot9 1 runshoot10 1
+
+dick
+dick1 70000000 dick3 70000000 dick4 70000000 dick3 70000000 dick1 1500000000
+
+flyingup
+flyingup1 70000000 flyingup2 70000000 flyingup3 70000000 flyingup4 70000000 flyingup5 70000000
+
+flyingupshoot
+flyingupshoot1 70000000 flyingupshoot2 70000000 flyingupshoot3 70000000 flyingupshoot4 70000000 flyingupshoot5 70000000
+
+landing
+landing1 50000000 landing2 50000000 landing2 50000000
+
+bluefire
+bullet1_1 30000000 bullet1_2 30000000 bullet1_3 30000000 bullet1_4 30000000 bullet1_5 30000000 bullet1_6 30000000 bullet1_7 30000000 bullet1_8 30000000
+
+redeyebullet
+bullet2_1 30000000 bullet2_2 30000000 bullet2_3 30000000
+
+yellow_flower_bullet
+bullet3_1 30000000 bullet3_2 30000000 bullet3_3 30000000 bullet3_4 30000000 bullet3_3 30000000 bullet3_2 30000000
+
+darkraisebullet
+bullet4_1 30000000 bullet4_2 30000000 bullet4_3 30000000 bullet4_2 30000000 bullet4_2 30000000
+
+
+gun_emplacement
+gun_emplacement1 100000000
+
+hurting
+hurting1 70000000 hurting2 70000000 hurting3 70000000 hurting4 70000000 hurting5 70000000 hurting6 70000000 hurting7 70000000 hurting8 70000000 hurting9 70000000 hurting10 70000000 hurting1 100000000
+
+clim_wall
+clim_wall 10000000
+
+redeye
+redeye1 170000000 redeye2 170000000
+
+smallredgun
+smallredgun1 170000000
+
+darkraise
+darkraise1 120000000 darkraise2 120000000 darkraise3 120000000 darkraise2 120000000
+
+dangerousgirl
+dangerousgirl1 70000000 dangerousgirl2 70000000 dangerousgirl3 70000000 dangerousgirl4 70000000 dangerousgirl5 70000000 dangerousgirl6 70000000 dangerousgirl7 70000000 dangerousgirl8 70000000
+
+robotR
+robotR1 70000000 robotR2 70000000 robotR3 70000000 robotR2 70000000 
+
+robotRbullet
+bullet5_1 70000000 bullet5_2 70000000 bullet5_3 70000000
+
+rocketUp
+rocketUp1 70000000
+
+rocketDown
+rocketDown1 70000000
+
+rocket
+rocket1 70000000
+
+boss_idle
+boss_idle1 500000000 boss_idle2 130000000 boss_idle3 130000000 boss_idle4 130000000 boss_idle5 130000000 boss_idle4 130000000 boss_idle3 130000000 boss_idle2 130000000
+
+boss_shooting
+boss_shooting1 500000000 boss_shooting2 500000000
+
+boss_slide
+boss_slide1 500000000 boss_slide2 500000000 boss_slide3 500000000 boss_slide4 500000000 
