@@ -24,7 +24,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener{
 
     public GamePanel(){
 
-        gameState = new MenuState(this);
+        gameState = new GameWorldState(this);
         
         inputManager = new InputManager(gameState);
 
